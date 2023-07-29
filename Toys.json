@@ -1,0 +1,128 @@
+[
+	{
+		"toy_id":"1",
+		"name":"Волк big",
+		"volume":1,
+		"frequency":1
+	},
+	{
+		"toy_id":"2",
+		"name":"Волк medium",
+		"volume":1,
+		"frequency":2
+	},
+	{
+		"toy_id":"3",
+		"name":"Волк small",
+		"volume":1,
+		"frequency":3
+	},
+	{
+		"toy_id":"4",
+		"name":"Заяц big",
+		"volume":1,
+		"frequency":1
+	},
+	{
+		"toy_id":"5",
+		"name":"Заяц medium",
+		"volume":1,
+		"frequency":2
+	},
+	{
+		"toy_id":"6",
+		"name":"Заяц small",
+		"volume":1,
+		"frequency":3
+	},
+	{
+		"toy_id":"7",
+		"name":"Кот big",
+		"volume":1,
+		"frequency":1
+	},
+	{
+		"toy_id":"8",
+		"name":"Кот medium",
+		"volume":1,
+		"frequency":2
+	},
+	{
+		"toy_id":"9",
+		"name":"Кот small",
+		"volume":1,
+		"frequency":3
+	},
+	{
+		"toy_id":"10",
+		"name":"Собака big",
+		"volume":1,
+		"frequency":1
+	},
+	{
+		"toy_id":"11",
+		"name":"Собака medium",
+		"volume":1,
+		"frequency":2
+	},
+	{
+		"toy_id":"12",
+		"name":"Собака small",
+		"volume":1,
+		"frequency":3
+	},
+	{
+		"toy_id":"13",
+		"name":"Ёж big",
+		"volume":1,
+		"frequency":1
+	},
+	{
+		"toy_id":"14",
+		"name":"Ёж medium",
+		"volume":1,
+		"frequency":2
+	},
+	{
+		"toy_id":"15",
+		"name":"Ёж small",
+		"volume":1,
+		"frequency":3
+	},
+	{
+		"toy_id":"16",
+		"name":"Черепаха big",
+		"volume":1,
+		"frequency":1
+	},
+	{
+		"toy_id":"17",
+		"name":"Черепаха medium",
+		"volume":1,
+		"frequency":2
+	},
+	{
+		"toy_id":"18",
+		"name":"Черепаха small",
+		"volume":1,
+		"frequency":3
+	},
+	{
+		"toy_id":"19",
+		"name":"Лиса big",
+		"volume":1,
+		"frequency":1
+	},
+    {
+		"toy_id":"20",
+		"name":"Лиса medium",
+		"volume":1,
+		"frequency":2
+	},
+    {
+		"toy_id":"21",
+		"name":"Лиса small",
+		"volume":1,
+		"frequency":3
+	}
+]
